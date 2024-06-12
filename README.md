@@ -2,7 +2,7 @@
 
 Meu nome é Amanda Maria
 
-- Estou estudando na [Alura] ()
+- Estou estudando na [Alura] (https://ww.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript;
 - Utilizo esse espaço para organição e compartilhando dos meus projetos desenvolvidos
 
